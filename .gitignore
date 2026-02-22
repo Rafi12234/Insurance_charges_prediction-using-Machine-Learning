@@ -1,0 +1,5 @@
+.gradio/
+mlruns/
+__pycache__/
+*.pyc
+random_forest_model.pkl
